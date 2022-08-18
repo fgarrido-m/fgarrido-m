@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola!
+
+Soy Felipe Garrido, estudiante?
+
+- :question: Estudio en el Magíster de Cienica Política de la Universidad Católica de Chile :question:
+- :clown_face: Interés particular en la participación ciudadana, regulación urbana y transparencia
+- :cowboy_hat_face: Creía recordar que sabía R, UPS
+- :eyes: no me pregunten por mi podcast
 
 <!--
 **fgarrido-m/fgarrido-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
